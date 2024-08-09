@@ -1,4 +1,4 @@
-aiohttp==3.9.5
+aiohttp==3.10.2
 amcrest==1.9.8
 paho-mqtt==2.1.0
 aiomqtt==2.1.0
